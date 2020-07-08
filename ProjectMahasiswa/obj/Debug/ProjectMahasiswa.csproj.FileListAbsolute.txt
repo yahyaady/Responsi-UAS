@@ -1,0 +1,12 @@
+E:\Final Project\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csprojAssemblyReference.cache
+E:\Final Project\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csproj.CoreCompileInputs.cache
+E:\Final Project\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe
+E:\Final Project\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.pdb
+E:\Final Project\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
+E:\Final Project\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb
+D:\2818\Pemrograman\ResponsiUAS-master\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe
+D:\2818\Pemrograman\ResponsiUAS-master\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.pdb
+D:\2818\Pemrograman\ResponsiUAS-master\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csprojAssemblyReference.cache
+D:\2818\Pemrograman\ResponsiUAS-master\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csproj.CoreCompileInputs.cache
+D:\2818\Pemrograman\ResponsiUAS-master\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
+D:\2818\Pemrograman\ResponsiUAS-master\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb
